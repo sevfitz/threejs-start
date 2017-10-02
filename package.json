@@ -1,0 +1,22 @@
+{
+  "name": "threejs-start",
+  "version": "1.0.0",
+  "description": "## Following along the three.js docs; https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevfitz/threejs-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevfitz/threejs-start/issues"
+  },
+  "homepage": "https://github.com/sevfitz/threejs-start#readme",
+  "dependencies": {
+    "eslint": "^4.8.0"
+  }
+}
